@@ -33,4 +33,4 @@ async def on_message(message):
         # メッセージが送られてきたチャンネルへHelloWorld!と送信
         await client.send_message(message.channel, m)
 
-client.run("NTMzMzg3MDgzMjU2MTY4NDc5.DxqtjQ.YgjNMXWb-eXoZs7Q2aClA6nuxDo") #トークンを貼り付けて下さい
+client.run("トークン") #トークンを貼り付けて下さい
